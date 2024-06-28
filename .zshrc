@@ -14,6 +14,8 @@ export PATH=$PATH:/usr/local/opt/node/bin
 alias g='git'
 alias ga='git add'
 alias gc='git commit'
+alias gs='git status'
+alias gd='git diff'
 
 ## docker関連
 alias d='docker'
